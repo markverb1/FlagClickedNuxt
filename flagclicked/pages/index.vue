@@ -3,7 +3,7 @@
     <div>
       <h2>This Week's Featured Tutorial</h2>
       <h3>Tutorial Name - Username</h3>
-      <select v-model="$colorMode.preference" style="color:black;">
+      <select v-model="$colorMode.preference">
       <option value="system">System</option>
       <option value="light">Light</option>
       <option value="dark">Dark</option>

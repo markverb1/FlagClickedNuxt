@@ -38,4 +38,12 @@ body {
 option {
   color:black;
 }
+.dark-mode select {
+  background:black;
+  color:white;
+}
+select {
+  color:black;
+  border-radius:3px;
+}
 </style>
